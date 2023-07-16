@@ -33,4 +33,4 @@ Admin can:
 ![S__62783491](https://github.com/chenyc1126/DS-OnlineBookstore/assets/137832751/ed44b644-9c67-4e41-8f80-6ab18a3d3fd0)
 
 <h1>Demo</h1>
-<a href="https://www.youtube.com/](https://youtu.be/uRsgt3nLnSU)https://youtu.be/uRsgt3nLnSU">Demo Video</a>
+<a href="https://youtu.be/uRsgt3nLnSU">Demo Video</a>
