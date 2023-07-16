@@ -3,10 +3,10 @@ Database final project about building a online bookstore website. I finished the
 
 <H1>How to run the code?</H1>
 <hr>
-1.Download shop_db.sql and build the database in phpmyadmin.
-2.Change the user account and password in config.php.
-3.Use Browse to type in the URL bar: localhost/login.php
-4.Now you can login to our website.
+1.Download shop_db.sql and build the database in phpmyadmin.<br>
+2.Change the user account and password in config.php.<br>
+3.Use Browse to type in the URL bar: localhost/login.php<br>
+4.Now you can login to our website.<br>
 
 <h1>ERdiagram</h1>
 ![Note May 23, 2023 at 21_44_21](https://github.com/chenyc1126/DS-OnlineBookstore/assets/137832751/64a9cf61-f6dd-4671-b3d6-bd3fe7f1b3d3)
