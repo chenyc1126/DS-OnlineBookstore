@@ -9,7 +9,8 @@ Database final project about building a online bookstore website. I finished the
 4.Now you can login to our website.
 
 <h1>ERdiagram</h1>
-![Note May 23, 2023 at 21_44_21](https://github.com/chenyc1126/DS-OnlineBookstore/assets/137832751/120dd90c-5c63-4d0b-9e6a-c2f66af0d748)
+![Note May 23, 2023 at 21_44_21](https://github.com/chenyc1126/DS-OnlineBookstore/assets/137832751/64a9cf61-f6dd-4671-b3d6-bd3fe7f1b3d3)
+
 
 <h1>Project Description</h1>
 The project consists of two roles: "user" and "admin". And the users consists of two roles: "normal user" and "vip". 
